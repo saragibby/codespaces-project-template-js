@@ -37,7 +37,7 @@
     },
     "codespaces": {
       "openFiles": [
-        "src/README.md"
+        "README.md"
       ]
     }
   },
@@ -52,7 +52,7 @@
 
   "portsAttributes": {
     "1234": {
-      "label": "Application",
+      "label": "My Portfolio",
       "onAutoForward": "openPreview"
     }
   },
